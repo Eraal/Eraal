@@ -3,18 +3,7 @@
 🎓 **Bachelor of Science in Information Technology**  
 📌 **Major in Network Administration**  
 🏫 **Laguna State Polytechnic University**  
-
 🚀 Passionate about technology and continuous learning, I'm currently honing my skills in modern frameworks and technologies like **React** and **Tailwind CSS**.  
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.facebook.com/geraaald.pandaan"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/geraldpandaan_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gerald-pandaan-27b53b2a9/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/GeraldPandaan"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-</p>
 
 ---
 
@@ -50,7 +39,15 @@
 
 ---
 
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.facebook.com/geraaald.pandaan"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/geraldpandaan_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gerald-pandaan-27b53b2a9/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/GeraldPandaan"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+</p>
 
+---
 
 ### ✍️ Random Dev Quote  
 <p align="center">
