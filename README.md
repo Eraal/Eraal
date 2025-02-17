@@ -34,22 +34,28 @@
 
 ---
 
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eraal&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
-
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eraal&theme=radical&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eraal&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
 ---
 
+
+
 ### ✍️ Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
----
-
 
 ---
 
